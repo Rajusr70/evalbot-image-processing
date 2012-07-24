@@ -94,7 +94,7 @@ int _tmain(int argc, _TCHAR* argv[])
 			cvShowImage("SRC",imgsrc);
 			cvShowImage("1",img1);
 
-			cvNamedWindow( "Contours 2", 1 );
+		//	cvNamedWindow( "Contours 2", 1 );
 			img_8uc1 = img3;
 			img_edge = cvCreateImage( cvGetSize(img_8uc1), 8, 1 );
 			img_8uc3 = cvCreateImage( cvGetSize(img_8uc1), 8, 3 );
@@ -202,7 +202,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		
 	//	printf( "Finished all contours.\n");
 		cvCvtColor( img_8uc1, img_8uc3, CV_GRAY2BGR );
-		cvShowImage( "Contours 2", img_8uc3 );
+	//	cvShowImage( "Contours 2", img_8uc3 );
 		char c = cvWaitKey(150);
 		if (c==27) break;
 		}
