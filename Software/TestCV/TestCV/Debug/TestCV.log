@@ -1,4 +1,4 @@
-﻿Build started 24/7/2012 17:58:04 PM.
+﻿Build started 24/7/2012 21:10:11 PM.
      1>Project "E:\Evalbot_Image\evalbot-image-processing\Software\TestCV\TestCV\TestCV.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\TestCV.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -49,4 +49,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:03.04
+Time Elapsed 00:00:16.18
