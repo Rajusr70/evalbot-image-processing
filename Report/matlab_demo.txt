@@ -4,8 +4,8 @@ No.				Title									Working Status
 3				Image Representation and Storage			Done
 4				Image Display and Visualization				Done
 5				Zooming and Panning Images					Done
-6				Pixel Values
-7				Image Enhancement
+6				Pixel Values								Done
+7				Image Enhancement							Done
 8				Brightness and Contrast Adjustment
 9				Cropping Images
 10				Edge Detection
