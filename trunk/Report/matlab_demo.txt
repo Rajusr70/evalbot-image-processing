@@ -6,14 +6,14 @@ No.				Title									Working Status
 5				Zooming and Panning Images					Done
 6				Pixel Values								Done
 7				Image Enhancement							Done
-8				Brightness and Contrast Adjustment
-9				Cropping Images
-10				Edge Detection
-11				Regions of Interest (ROI)
-12				Resizing Images
-13				Image Registration and Alignment
-14				Image Filters
-15				Image Filtering
+8				Brightness and Contrast Adjustment			Done
+9				Cropping Images								Done
+10				Edge Detection								Done
+11				Regions of Interest (ROI)					Done
+12				Resizing Images								Done
+13				Image Registration and Alignment			Done
+14				Image Filters								Done
+15				Image Filtering								Done
 16				Image Transforms
 17				Fourier Transform
 18				Feature Detection
