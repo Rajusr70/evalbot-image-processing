@@ -20,10 +20,10 @@ No.				Title									Working Status
 19				Discrete Cosine Transform					Done
 20				Image Compression							Done
 21				Random Transform							Done
-22				Image Reconstruction
-23				Fan-beam Transform
-24				Morphological Operations
-25				Morphology Examples
+22				Image Reconstruction						Done
+23				Fan-beam Transform							Done
+24				Morphological Operations					Done	
+25				Morphology Examples							Done
 26				Image Histogram
 27				Image Analysis
 28				Edge detection
