@@ -24,7 +24,7 @@ No.				Title									Working Status
 23				Fan-beam Transform							Done
 24				Morphological Operations					Done	
 25				Morphology Examples							Done
-26				Image Histogram
+26				Image Histogram								Done
 27				Image Analysis
 28				Edge detection
 29				Hough Transform
