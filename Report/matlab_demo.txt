@@ -25,14 +25,14 @@ No.				Title									Working Status
 24				Morphological Operations					Done	
 25				Morphology Examples							Done
 26				Image Histogram								Done
-27				Image Analysis
-28				Edge detection
-29				Hough Transform
-30				Image Texture
-31				Image Statistics
-32				Color Adjustment
-33				Noise Reduction
-34				Regions of Interest
+27				Image Analysis								Done
+28				Edge detection								Done
+29				Hough Transform								Done
+30				Image Texture								Done
+31				Image Statistics							Done
+32				Color Adjustment							Done
+33				Noise Reduction								Done
+34				Regions of Interest							Done
 35				Filling Images
 36				Deblurring Images
 37				Image Color
